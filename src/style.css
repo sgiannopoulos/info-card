@@ -2,12 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+
 .card-container{
     margin: auto;
     margin-top: 10%;
     width: 50%;
     min-height: 600px;
-    height: 600px;
     max-width: 400px;
     display: flex;
     flex-flow: column;
