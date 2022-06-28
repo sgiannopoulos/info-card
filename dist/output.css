@@ -549,10 +549,6 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.m-5 {
-  margin: 1.25rem;
-}
-
 .ml-auto {
   margin-left: auto;
 }
@@ -561,28 +557,8 @@ video {
   margin-right: auto;
 }
 
-.mt-2 {
-  margin-top: 0.5rem;
-}
-
 .mt-5 {
   margin-top: 1.25rem;
-}
-
-.h-10 {
-  height: 2.5rem;
-}
-
-.h-40 {
-  height: 10rem;
-}
-
-.h-7 {
-  height: 1.75rem;
-}
-
-.self-center {
-  align-self: center;
 }
 
 .text-center {
@@ -592,10 +568,6 @@ video {
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
-}
-
-.font-bold {
-  font-weight: 700;
 }
 
 .font-extrabold {
@@ -612,6 +584,7 @@ video {
   margin-top: 10%;
   width: 50%;
   min-height: 600px;
+  height: 600px;
   max-width: 400px;
   display: flex;
   flex-flow: column;
