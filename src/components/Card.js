@@ -8,7 +8,7 @@ export default class Card extends Component {
   render() {
     return (
         <div className='card-container'>
-            <img className="profile-photo" src="https://picsum.photos/id/1025/600/400" alt="" />
+            <img className="profile-photo" src="https://picsum.photos/id/1021/600/400" alt="" />
             <Info />
         </div>
     )

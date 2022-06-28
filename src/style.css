@@ -23,7 +23,6 @@
 
 .info-panel{
     flex-grow: 1;
-    display: flex;
     background-color: rgb(40, 44, 56);
 }
 /* 
